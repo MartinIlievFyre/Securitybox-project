@@ -1,5 +1,6 @@
 Project Title: Jewelry Storage Box with Integrated Security System
 Overview
+
 This project is focused on creating a jewelry storage box equipped with an innovative security system designed to protect valuable items such as jewelry, money, important documents, gold, and other precious belongings. The system utilizes a combination of laser and ultrasonic technologies to provide robust protection against potential threats, including intrusion or theft attempts.
 
 Note: The code in this project is written with a focus on readability and ease of understanding rather than optimization. While it may not be the most efficient, it is designed to be accessible and clear for anyone reviewing the code.
